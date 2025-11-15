@@ -3,7 +3,7 @@
 import React from 'react';
 
 const Page = () => {
-  return <div>{'LOGIN PAGE'}</div>;
+  return <div className='text-white text-5xl'>SIGNUP PAGE</div>;
 };
 
 export default Page;

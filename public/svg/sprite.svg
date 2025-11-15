@@ -1,0 +1,21 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="tick" viewBox="0 0 32 32">
+<path fill="none" style="stroke: var(--color1, #fff)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="3.7333" d="M5.333 17.5l9.899 9.899 14-21"></path>
+</symbol>
+    <symbol id="down-arrow" viewBox="0 0 56 32">
+        <path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="5.6" d="M2.8 2.8l24 24 24-24"></path>
+    </symbol>
+    <symbol id="up-arrow" viewBox="0 0 20 32">
+        <path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="3.5556" d="M9.608 2.515l7.619 8M9.608 2.515l-8.381 8M9.608 2.515v28.444"></path>
+    </symbol>
+    <symbol id="exit" viewBox="0 0 32 32">
+        <path d="M2.575 0.454c-0.586-0.586-1.536-0.586-2.121 0s-0.586 1.536 0 2.121l13.425 13.425-13.425 13.425c-0.586 0.586-0.586 1.536 0 2.121s1.536 0.586 2.121 0l13.425-13.425 13.425 13.425c0.586 0.586 1.536 0.586 2.121 0s0.586-1.536 0-2.121l-13.425-13.425 13.425-13.425c0.586-0.586 0.586-1.536 0-2.121s-1.536-0.586-2.121 0l-13.425 13.425-13.425-13.425z"></path>
+    </symbol>
+    <symbol id="burger" viewBox="0 0 32 32">
+        <path d="M4.4 9.333c0-0.515 0.418-0.933 0.933-0.933h21.333c0.515 0 0.933 0.418 0.933 0.933s-0.418 0.933-0.933 0.933h-21.333c-0.515 0-0.933-0.418-0.933-0.933z"></path>
+        <path d="M4.4 16c0-0.515 0.418-0.933 0.933-0.933h21.333c0.515 0 0.933 0.418 0.933 0.933s-0.418 0.933-0.933 0.933h-21.333c-0.515 0-0.933-0.418-0.933-0.933z"></path>
+        <path d="M4.4 22.666c0-0.515 0.418-0.933 0.933-0.933h21.333c0.515 0 0.933 0.418 0.933 0.933s-0.418 0.933-0.933 0.933h-21.333c-0.515 0-0.933-0.418-0.933-0.933z"></path>
+    </symbol>
+</defs>
+</svg>
