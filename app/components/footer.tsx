@@ -25,8 +25,8 @@ const Footer = () => {
           </span>
           <Navigation
             items={FooterItems}
-            classNameCont={'!gap-3 min-[1440px]:!gap-6 flex-col'}
-            classNameElement={'text-[16px]  leading-[1.25] font-bold'}
+            classNameCont={'!gap-3 min-[1440px]:!gap-6 flex-col min-[1440px]:flex-row'}
+            classNameElement={'text-[16px] leading-[1.25] font-bold'}
           />
         </div>
 

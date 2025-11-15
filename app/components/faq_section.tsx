@@ -57,7 +57,7 @@ const Faq_section = () => {
                 </h3>
                 <SvgIcon
                   name='down-arrow'
-                  className={`w-4 h-3 text-[#030718] fill-current transition-transform duration-300 ${
+                  className={`w-4 h-3 text-[#030718] fill-current transition-transform duration-500 ${
                     openIndex === index ? 'rotate-180 text-white' : 'text-[#030718]'
                   }`}
                 />
